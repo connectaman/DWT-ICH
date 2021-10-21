@@ -54,3 +54,9 @@ plt.show()
 ![result](https://github.com/connectaman/DWT-ICH/blob/main/images/result2.PNG)
 ![result](https://github.com/connectaman/DWT-ICH/blob/main/images/result3.PNG)
 
+
+### Contributor
+
+- Aman Ulla 
+- Huda Saif 
+
