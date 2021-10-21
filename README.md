@@ -54,6 +54,8 @@ plt.show()
 ![result](https://github.com/connectaman/DWT-ICH/blob/main/images/result2.PNG)
 ![result](https://github.com/connectaman/DWT-ICH/blob/main/images/result3.PNG)
 
+##### The Maximum IOU Score Obtained testing on 2500 images is 72%
+
 
 ### Contributor
 
