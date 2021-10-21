@@ -21,7 +21,7 @@ to brain.
 
 ### Working 
 
-![flowchat]()
+![flowchat](https://github.com/connectaman/DWT-ICH/blob/main/images/flowchart.PNG)
 
 
 -----------------------------------------------------------
@@ -50,7 +50,7 @@ plt.show()
 
 ### Result
 
-![result]()
-![result]()
-![result]()
+![result](https://github.com/connectaman/DWT-ICH/blob/main/images/result.PNG)
+![result](https://github.com/connectaman/DWT-ICH/blob/main/images/result2.PNG)
+![result](https://github.com/connectaman/DWT-ICH/blob/main/images/result3.PNG)
 
